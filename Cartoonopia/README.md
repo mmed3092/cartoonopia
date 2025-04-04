@@ -1,4 +1,4 @@
-# Catoonopia Web Application Assignmen2
+# Catoonopia Web Application 
 
 
 This is the final version of the Cartoonopia Web Application. Users can sign up or log in to the homepage of Cartoonopia to compare characters and view character details. Regular users can add or edit characters with approval from the administrator and revoke changes if they are pending. They can also like their favorite characters and check their user profile, where contributions can be viewed. Contributions include all the changes they have made to the website.
